@@ -6,7 +6,7 @@ Fastly move to any section of readme
 # Installing
 
 ```bash
-git clone https://github.com/YOungMeatBoy/findme.git
+git clone https://github.com/YoungMeatBoy/findme.git
 
 cd findme
 
