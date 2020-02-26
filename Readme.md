@@ -1,4 +1,5 @@
-Fastly move to any section of readme
+# FINDER PROJECT
+Navigation:  
 - [I am a junior developer and want to take part in this project. What can I do for you?](#i-am-a-junior-developer-and-want-to-take-part-in-this-project-what-can-i-do-for-you)
 - [How it works? Why should not I run anything?](#how-it-works-why-should-not-i-run-anything)
 - [Installing](#installing)
