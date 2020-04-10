@@ -1,5 +1,7 @@
-"""Hi! This is a pattern for creating your own site parser Lets have a look at
-it!
+"""
+Hi! 
+This is a pattern for creating your own site parser 
+Lets have a look at it!
 
 Remember!
 		Our command will check every pull request.
